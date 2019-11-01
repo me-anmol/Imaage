@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.firebase.ml.vision.common.FirebaseVisionImage'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
